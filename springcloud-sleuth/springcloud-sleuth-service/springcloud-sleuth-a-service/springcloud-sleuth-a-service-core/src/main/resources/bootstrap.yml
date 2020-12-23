@@ -1,4 +1,0 @@
-feign:
-  hystrix:
-    # 开启断路器
-    enabled: true
